@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar&family=Poppins&family=Roboto&family=Roboto+Serif:opsz@8..144&family=Tiro+Gurmukhi&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #FBFCFC;
+}
+
+/* .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+} */
